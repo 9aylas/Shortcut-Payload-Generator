@@ -1,11 +1,11 @@
 #cs
 
 Author  : 9aylas
-From   : Algeria
-Home  : N/A
+From   : Algeria , 16200 Hell
+Home  : n/a
 
-Greet's To  :  Ghosty , Erreur404 , Ramel , Deba , Zahir , Ouss , Redwan , Bellal , TheBen , H-F ...
-               & All DzCyberSec Members.
+Greet's To  :  AX302 , Ghosty , Erreur404 , Ramel , DebaAkrem , TheBen_xD , Zahir , Ouss , Redwan , Bellal , H-F ...
+                And DzCyberSec Members.
 
 		 PS/0x1 : Where? ( emplacement ) is not working , ( it installs automatically in %appdata% ) another time i will add this featur
 		 or u can do it ,don't be a tree --' .
