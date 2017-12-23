@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<object type="TAForm" name="Form1">
+	<properties>
+		<property name="Left" vt="Int16">192</property>
+		<property name="Top" vt="Int8">114</property>
+		<property name="Width" vt="Int16">383</property>
+		<property name="Height" vt="Int16">178</property>
+		<property name="Caption" vt="String">LNK-Kisser</property>
+		<property name="Color" vt="Ident">clBtnFace</property>
+		<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+		<property name="Font.Color" vt="Ident">clWindowText</property>
+		<property name="Font.Height" vt="Int8">-11</property>
+		<property name="Font.Name" vt="String">MS Sans Serif</property>
+		<property name="Font.Style" vt="Set"/>
+		<property name="OldCreateOrder" vt="False">False</property>
+		<property name="Visible" vt="True">True</property>
+		<property name="Style" vt="Int32">-1798701056</property>
+		<property name="ExStyle" vt="Int16">256</property>
+		<property name="Version" vt="String">1.04</property>
+		<property name="FormOptOnEvent" vt="False">False</property>
+		<property name="FormOptExpVars" vt="False">False</property>
+		<property name="FormOptPopulate" vt="False">False</property>
+		<property name="FormOptVarsForSet" vt="False">False</property>
+		<property name="FormOptIndentChar" vt="Int8">0</property>
+		<property name="FormOptIndentCount" vt="Int8">1</property>
+		<property name="FormOptIndentInit" vt="Int8">0</property>
+		<property name="FormOptVarScope" vt="Int8">0</property>
+		<property name="Resizing" vt="Set"/>
+		<property name="PixelsPerInch" vt="Int8">96</property>
+		<property name="TextHeight" vt="Int8">13</property>
+	</properties>
+	<components>
+		<object type="TAInput" name="url">
+			<properties>
+				<property name="Left" vt="Int8">80</property>
+				<property name="Top" vt="Int8">40</property>
+				<property name="Width" vt="Int16">281</property>
+				<property name="Height" vt="Int8">21</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clRed</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">0</property>
+				<property name="Text" vt="String">http://www.lucifer.gov/payloads/malware.exe</property>
+				<property name="CtrlStyle" vt="Int32">1342374017</property>
+				<property name="CtrlExStyle" vt="Int16">512</property>
+				<property name="Resizing" vt="Set">DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAButton" name="Button1">
+			<properties>
+				<property name="Left" vt="Int8">80</property>
+				<property name="Top" vt="Int8">120</property>
+				<property name="Width" vt="Int16">281</property>
+				<property name="Height" vt="Int8">21</property>
+				<property name="Caption" vt="String">Make it cum</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clWindowText</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set">fsBold</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">1</property>
+				<property name="Color" vt="Ident">clBtnFace</property>
+				<property name="CtrlStyle" vt="Int32">1342373888</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TALabel" name="Label1">
+			<properties>
+				<property name="Left" vt="Int8">8</property>
+				<property name="Top" vt="Int8">44</property>
+				<property name="Width" vt="Int8">70</property>
+				<property name="Height" vt="Int8">17</property>
+				<property name="Caption" vt="String">Payload URL:</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clNavy</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">2</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TACombo" name="location">
+			<properties>
+				<property name="Left" vt="Int16">216</property>
+				<property name="Top" vt="Int8">64</property>
+				<property name="Width" vt="Int16">145</property>
+				<property name="Height" vt="Int8">25</property>
+				<property name="Font.Charset" vt="Ident">ANSI_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clRed</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">Courier</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ItemHeight" vt="Int8">13</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">3</property>
+				<property name="Text" vt="String">WHERE ?</property>
+				<property name="Items.Strings" vt="List">
+					<list>
+						<li vt="String">APPDATA</li>
+						<li vt="String">TEMP</li>
+						<li vt="String">WINDOWS</li>
+					</list>
+				</property>
+				<property name="CtrlStyle" vt="Int32">1342374594</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set">DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TALabel" name="Label2">
+			<properties>
+				<property name="Left" vt="Int8">80</property>
+				<property name="Top" vt="Int8">8</property>
+				<property name="Width" vt="Int16">285</property>
+				<property name="Height" vt="Int8">27</property>
+				<property name="Caption" vt="String">Shortcut Payload Generator </property>
+				<property name="Font.Charset" vt="Ident">ANSI_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clGray</property>
+				<property name="Font.Height" vt="Int8">-19</property>
+				<property name="Font.Name" vt="String">Century</property>
+				<property name="Font.Style" vt="Set">fsBold</property>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">4</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TARadio" name="Radio1">
+			<properties>
+				<property name="Left" vt="Int16">232</property>
+				<property name="Top" vt="Int8">96</property>
+				<property name="Width" vt="Int8">121</property>
+				<property name="Height" vt="Int8">17</property>
+				<property name="Caption" vt="String">Encoded Command</property>
+				<property name="Checked" vt="True">True</property>
+				<property name="TabOrder" vt="Int8">5</property>
+				<property name="TabStop" vt="True">True</property>
+				<property name="CtrlStyle" vt="Int32">1342242825</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set">DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TARadio" name="Radio2">
+			<properties>
+				<property name="Left" vt="Int8">80</property>
+				<property name="Top" vt="Int8">96</property>
+				<property name="Width" vt="Int8">81</property>
+				<property name="Height" vt="Int8">17</property>
+				<property name="Caption" vt="String">Not Encoded</property>
+				<property name="TabOrder" vt="Int8">6</property>
+				<property name="CtrlStyle" vt="Int32">1342242825</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set">DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAIcon" name="Icon1">
+			<properties>
+				<property name="Left" vt="Int8">24</property>
+				<property name="Top" vt="Int8">8</property>
+				<property name="Width" vt="Int8">32</property>
+				<property name="Height" vt="Int8">32</property>
+				<property name="CtrlStyle" vt="Int32">1342374147</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="PicturePath" vt="String">C:\Windows\System32\shell32.dll</property>
+				<property name="PictureIndex" vt="Int8">122</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+				<property name="TabOrder" vt="Int8">7</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAInput" name="Input1">
+			<properties>
+				<property name="Left" vt="Int8">80</property>
+				<property name="Top" vt="Int8">64</property>
+				<property name="Width" vt="Int8">113</property>
+				<property name="Height" vt="Int8">21</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clRed</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">8</property>
+				<property name="Text" vt="String">anything.exe</property>
+				<property name="CtrlStyle" vt="Int32">1342374017</property>
+				<property name="CtrlExStyle" vt="Int16">512</property>
+				<property name="Resizing" vt="Set">DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TALabel" name="Label3">
+			<properties>
+				<property name="Left" vt="Int8">8</property>
+				<property name="Top" vt="Int8">68</property>
+				<property name="Width" vt="Int8">62</property>
+				<property name="Height" vt="Int8">17</property>
+				<property name="Caption" vt="String">Exe   Name:</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clNavy</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">9</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TALabel" name="Label4">
+			<properties>
+				<property name="Left" vt="Int8">8</property>
+				<property name="Top" vt="Int8">96</property>
+				<property name="Width" vt="Int8">67</property>
+				<property name="Height" vt="Int8">17</property>
+				<property name="Caption" vt="String">Payload Enc:</property>
+				<property name="Font.Charset" vt="Ident">DEFAULT_CHARSET</property>
+				<property name="Font.Color" vt="Ident">clNavy</property>
+				<property name="Font.Height" vt="Int8">-11</property>
+				<property name="Font.Name" vt="String">MS Sans Serif</property>
+				<property name="Font.Style" vt="Set"/>
+				<property name="ParentFont" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">10</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+		<object type="TAButton" name="Button2">
+			<properties>
+				<property name="Left" vt="Int8">8</property>
+				<property name="Top" vt="Int8">120</property>
+				<property name="Width" vt="Int8">65</property>
+				<property name="Height" vt="Int8">21</property>
+				<property name="Caption" vt="String">About ?</property>
+				<property name="TabOrder" vt="Int8">11</property>
+				<property name="Color" vt="Ident">clBtnFace</property>
+				<property name="CtrlStyle" vt="Int32">1342373888</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set">DockWidth, DockHeight</property>
+			</properties>
+			<components/>
+		</object>
+		<object type="TALabel" name="Label5">
+			<properties>
+				<property name="Left" vt="Int16">176</property>
+				<property name="Top" vt="Int8">96</property>
+				<property name="Width" vt="Int8">46</property>
+				<property name="Height" vt="Int8">17</property>
+				<property name="Caption" vt="String">(Base64)</property>
+				<property name="Enabled" vt="False">False</property>
+				<property name="TabOrder" vt="Int8">12</property>
+				<property name="HaveVariable" vt="False">False</property>
+				<property name="CtrlStyle" vt="Int32">1342308608</property>
+				<property name="CtrlExStyle" vt="Int8">0</property>
+				<property name="Resizing" vt="Set"/>
+			</properties>
+			<components/>
+		</object>
+	</components>
+</object>
