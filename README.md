@@ -5,3 +5,9 @@
 - Set hidden attribs to the malware after downloading....etc
 - G00d by3. 
 - ./9aylas 
+
+
+![alt text](screenshot_lnkkisser.bmp "huh")
+![alt text](screenshot_lnkkisser_tcpview.bmp "hah")
+
+>EOF
